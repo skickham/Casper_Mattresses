@@ -1,0 +1,9 @@
+*.csv
+*.ipynb_checkpoints
+*.cfg
+*.pyc
+__pycache__/
+essential_spider.py
+wave_spider.py
+old.py
+
